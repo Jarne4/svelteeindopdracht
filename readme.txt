@@ -1,4 +1,7 @@
-doe php -S localhost:8000 server.php om de backend te starten
-doe npm run dev o mde frontend te starten
+installeer alle files eerst : 
 
-sqlite db
+doe php -S localhost:8000 server.php om de backend te starten
+doe npm run dev om de frontend opte starten
+
+
+er wordt gebruik gemaakt van sqlite database
